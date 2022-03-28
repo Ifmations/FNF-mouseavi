@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blob.png">
+<SubTexture name="blob idle0000" x="0" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="blob idle0001" x="1290" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="blob idle0002" x="2580" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="blob idle0003" x="0" y="734" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="blob idle0004" x="1290" y="734" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="blob idle0005" x="2580" y="734" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="blob idle0006" x="0" y="1468" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="blob idle0007" x="1290" y="1468" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="blob idle0008" x="2580" y="1468" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+</TextureAtlas>

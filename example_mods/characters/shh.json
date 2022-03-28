@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				155,
+				525
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "magicmouse idle"
+		},
+		{
+			"offsets": [
+				155,
+				525
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "magicmouse down"
+		},
+		{
+			"offsets": [
+				155,
+				525
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "magicmouse left"
+		},
+		{
+			"offsets": [
+				155,
+				525
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "magicmouse right"
+		},
+		{
+			"offsets": [
+				155,
+				525
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "magicmouse up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/magicmouse",
+	"position": [
+		170,
+		350
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-200,
+		-410
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

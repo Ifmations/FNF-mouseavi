@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="titleEnter.png">
+<SubTexture name="Press Enter to Begin0000" x="0" y="0" width="1090" height="153" frameX="0" frameY="0" frameWidth="1090" frameHeight="153" />
+<SubTexture name="Press Enter to Begin0001" x="1090" y="0" width="1090" height="153" frameX="0" frameY="0" frameWidth="1090" frameHeight="153" />
+<SubTexture name="Press Enter to Begin0002" x="2180" y="0" width="1090" height="153" frameX="0" frameY="0" frameWidth="1090" frameHeight="153" />
+<SubTexture name="Press Enter to Begin0003" x="0" y="153" width="1090" height="153" frameX="0" frameY="0" frameWidth="1090" frameHeight="153" />
+<SubTexture name="Press Enter to Begin0004" x="1090" y="153" width="1090" height="153" frameX="0" frameY="0" frameWidth="1090" frameHeight="153" />
+<SubTexture name="Press Enter to Begin0005" x="2180" y="153" width="1090" height="153" frameX="0" frameY="0" frameWidth="1090" frameHeight="153" />
+<SubTexture name="Press Enter to Begin0006" x="0" y="306" width="1090" height="153" frameX="0" frameY="0" frameWidth="1090" frameHeight="153" />
+<SubTexture name="Press Enter to Begin0007" x="1090" y="306" width="1090" height="153" frameX="0" frameY="0" frameWidth="1090" frameHeight="153" />
+<SubTexture name="Press Enter to Begin0008" x="2180" y="306" width="1090" height="153" frameX="0" frameY="0" frameWidth="1090" frameHeight="153" />
+<SubTexture name="ENTER PRESSED0000" x="0" y="459" width="1090" height="153" frameX="0" frameY="0" frameWidth="1090" frameHeight="153" />
+<SubTexture name="ENTER PRESSED0001" x="1090" y="459" width="1090" height="153" frameX="0" frameY="0" frameWidth="1090" frameHeight="153" />
+<SubTexture name="ENTER PRESSED0002" x="2180" y="459" width="1090" height="153" frameX="0" frameY="0" frameWidth="1090" frameHeight="153" />
+</TextureAtlas>

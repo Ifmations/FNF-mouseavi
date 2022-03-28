@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "room",
+		"player1": "bf",
+		"player2": "mouse",
+		"player3": null,
+		"events": [
+			[
+				42430.9392265193,
+				[
+					[
+						"mickeytalk",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42434.3922651934,
+				[
+					[
+						"Blammed Lights",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				44751.3812154696,
+				[
+					[
+						"mickeytalkend",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44754.8342541436,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 181,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "despair"
+	}
+}
